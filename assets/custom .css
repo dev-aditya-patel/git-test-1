@@ -1,5 +1,6 @@
 .body {
     background-color: --p-action-critical;
     padding: auto;
+    margin: auto;
 
 }
